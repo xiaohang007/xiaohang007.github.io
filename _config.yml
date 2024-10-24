@@ -1,5 +1,5 @@
-name: 肖航课题组  Xiao Research Group
-url: https://xiaohang007.github.io/
+name: 世界一级方程式大奖赛  formula one grand prix
+url: https://zhaohandong.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -11,14 +11,14 @@ permalink: /blog/:year/:month/:day/:title.html
 encoding: utf-8
 # Sections on the "people" page.
 roles:
-  - key: faculty
-    name: 教师 Faculty
-  - key: grad
-    name: 研究生 Graduate Students
-  - key: ugrad
-    name: 本科生 Undergraduate Students
-  - key: collab
-    name: 合作者 Collaborators
+  - key: leader
+    name: 领队 leader
+  - key: 1
+    name: 本人 self
+  - key: 2
+    name: 队友 team member
+  - key: 2
+    name: 车队 convoys
 
 
 # Number of news stories on the front page.
@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 科研项目 Research
+  - title: 奖项 award
     link: /research.html
-  - title: 论文 Publications
+  - title: 荣誉 reputation
     link: /publications.html

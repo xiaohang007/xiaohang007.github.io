@@ -1,19 +1,19 @@
 
 
 
-profx:
-    display_name: "肖航  Hang Xiao"
-    github: xiaohang007
-    role: faculty
+Lewis Hamilton:
+    display_name: "刘易斯汉密尔顿 Lewis Hamilton"
+    github: zhaohandong
+    role: driver
     image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+    bio: 冠军车手  champion driver
+    webpage: "https://lewishamilton/en/persons/Lewis Hamilton"
 
-scott:
-    display_name: "Scott Summers"
-    role: staff
+George Russell:
+    display_name: "George Russell"
+    role: driver
     image: /img/people/scott.png
-    bio: aka Cyclops
+    bio: driver
 
 wolverine:
     display_name: "Wolverine"
@@ -27,51 +27,51 @@ wolverine:
 
     
 bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+    display_name: "Lewis Hamilton "
     role: grad
     image: /img/people/bizhu.jpg
 
 kedeng:
-    display_name: "吴克登 Kedeng Wu"
+    display_name: "George Russell"
     role: grad
     image: /img/people/kedeng.jpg
 
 storm:
-    display_name: "虚位以待  We need you!"
+    display_name: "Toto Wolf!"
     role: grad
     image: /img/people/need.png
 
 
 
 alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    display_name: "Sebastian Vettel"
+    role: world champion
+    bio: "2013 world champion"
 
 
 chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+    display_name: "lewis hamilton "
     role: collab
 
 
 xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+    display_name: "max verstappen"
     role: collab
 
 xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+    display_name: "lando norris"
     role: collab
     
 liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+    display_name: "oscar piastri"
     role: collab
 
 chenyan:
-    display_name: "陈炎 Yan Chen"
+    display_name: "sergio perez"
     role: collab
     
 juzheng:
-    display_name: "宋居正 Juzheng Song"
+    display_name: "fernando alonso"
     role: collab
 
 yayun:
@@ -79,7 +79,7 @@ yayun:
     role: collab
 
 dianxing:
-    display_name: "居佃兴 Dianxing Ju"
+    display_name: "nico hulkenberg"
     role: collab
     
 
