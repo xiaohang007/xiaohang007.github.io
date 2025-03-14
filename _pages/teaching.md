@@ -1,12 +1,23 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Recent courses taught at Macao Polytechnic University
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+- Spring 2025&nbsp;&nbsp;&nbsp;&nbsp;           MATH1113 *Discrete Mathematics*&nbsp;&nbsp;&nbsp;&nbsp; 45hours
 
-Organize your courses by years, topics, or universities, however you like!
+- Fall 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MATH1111 *Linear Algebra* (also course responsible)&nbsp;&nbsp;&nbsp;&nbsp;  45hours
+
+- Fall 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COMP408 *Selected Topics III - Linear Algebra* (also course responsible)&nbsp;&nbsp;&nbsp;&nbsp;  45hours
+
+- Fall 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AIDD8121 *Research Methodology and Ethics* (also course responsible)&nbsp;&nbsp;&nbsp;&nbsp;  24hours
+
+- Spring 2023&nbsp;&nbsp;&nbsp;&nbsp; COMP6117 *Selected Topics II - Theory and Practice in Artificial Intelligence driven Drug Discovery*&nbsp;&nbsp;&nbsp;&nbsp;  15hours
+
+- Spring 2023&nbsp;&nbsp;&nbsp;&nbsp; COMP409 *Selected Topics IV - Introduction to Artificial Intelligence driven Drug Discovery* &nbsp;&nbsp;&nbsp;&nbsp;  15hours
+
+- Fall 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AIDD8121 *Research Methodology and Ethics* (also course responsible)&nbsp;&nbsp;&nbsp;&nbsp;  24hours
+
