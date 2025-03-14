@@ -14,7 +14,7 @@ related_posts: false
 
 **Scholarship: MOP 10,000/month** (36 months)
 
-**Last application date: May 2025 (recruiting will close once positions are filled)**
+**Last application date: May 2025** (recruiting will close once positions are filled)
 
 
 ---
@@ -42,4 +42,4 @@ This project aims to develop an accurate and efficient deep learning framework f
 
 --- 
 
-**Interested candidates are encouraged to send their CV to <duo.wang@mpu.edu.mo>, along with a brief self-introduction and a statement of their research interests.**
+**Interested candidates are encouraged to send their CV to <duo.wang@mpu.edu.mo>, along with a brief self-introduction and their interested research area.**
