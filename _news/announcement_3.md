@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recruiting Two Ph.D. Students
-date: 2025-03-14 16:11:00-0400
+date: 2025-03-14 12:11:00-0400
 inline: false
 related_posts: false
 ---
@@ -10,9 +10,9 @@ related_posts: false
 
 **Starting date: Sep. 2025**
 
-**Scholarship: MOP 10,000/month** (36 months)
-
 **Number of Positions: 2**
+
+**Scholarship: MOP 10,000/month** (36 months)
 
 **Last application date: May 2025 (recruiting will close once positions are filled)**
 
