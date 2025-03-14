@@ -18,7 +18,7 @@ related_posts: false
 
 
 ---
-#### **Research Area 1: Dynamical Mean-Field Theory (DMFT) Study for Strongly Correlated Systems**
+#### **Research Area 1: Dynamical Mean-Field Theory (DMFT) Study of Strongly Correlated Systems**
 
 This research focuses on investigating the fundamental electronic structure and magnetic correlations of strongly correlated systems using the DFT+DMFT method. Topics include, but are not limited to: Spin liquids, Berezinskii-Kosterlitz-Thouless (BKT) phase transitions, Magnon-phonon coupling, ultrafast magnetization dynamics (SOT, STT), Spin waves, X-ray absorption spectroscopy calculations, etc.
 
