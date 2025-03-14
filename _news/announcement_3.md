@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-**Two Fully Funded PhD Positions in First-Principles Simulations – Wang Duo’s Group at Macao Polytechnic University**
+#### **Two Fully Funded PhD Positions in First-Principles Simulations**
 
 **Starting date: Sep. 2025**
 
