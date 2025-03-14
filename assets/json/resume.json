@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Duo Wang",
+    "label": "Theoretical magnetism, ab-initio theory, Multiferroic materials",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "duo.wang@mpu.edu.mo",
+    "phone": "(853)85996884",
+    "url": "https://duowang-phys.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Wui Chi building, R. de Luis Gonzaga Gomes",
+      "postalCode": "999078",
+      "city": "Macao",
+      "countryCode": "CN",
+      "region": "Macao SAR"
     },
     "profiles": [
       {
@@ -24,177 +24,155 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Faculty of Applied Sciences, Macao Polytechnic University, Macao",
+      "position": "Lecturer",
+      "url": "https://www.mpu.edu.mo/en/index.php",
+      "startDate": "2022-08-02",
+      "location": "Macao SAR",
+      "endDate": ""
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Department of Physics and Astronomy, Uppsala University, Sweden",
+      "location": "Uppsala, Sweden",
+      "url": "https://www.uu.se/en/department/physics-and-astronomy/research/materials-theory",
+      "area": "Title of Thesis: Ab initio studies of advanced functional materials with complex magnetism (supervisor: Prof. Biplab Sanyal)",
+      "studyType": "Ph.D. in Physics",
+      "startDate": "2017-11-01",
+      "endDate": "2022-02-28"
+    },
+    {
+      "institution": "Department of Materials Science and Engineering, Tsinghua University, China",
+      "location": "Beijing, China",
+      "url": "https://www.mse.tsinghua.edu.cn",
+      "studyType": "M.Eng.",
+      "startDate": "2014-09-01",
+      "endDate": "2017-07-01"
+    },
+    {
+      "institution": "Department of Materials Science and Engineering, Heilongjiang University of Science and Technology, China",
+      "location": "Harbin, China",
+      "url": "https://www.mse.tsinghua.edu.cn",
+      "studyType": "M.Sc.",
+      "startDate": "2008-09-01",
+      "endDate": "2012-07-01"
     }
   ],
-  "awards": [
+  "funding": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "name": "Research on New Quantum Material Magnetic Effects Based on First-principles Calculations and Deep Learning",
+      "summary": "The Science and Technology Development Fund (FDCT), Macao.",
+      "startDate": "2024-01-09",
+      "endDate": "2026-01-11",
       "url": "https://example.com"
+    },
+    {
+      "name": "Ground-state Magnetic Properties of Novel Quantum Materials and Biomacromolecules - A First-principles Study",
+      "summary": "Macao Polytechnic University, Macao.",
+      "startDate": "2023-03",
+      "endDate": "2026-02",
+      "url": "https://example.com"
+    }
+  ],
+  "conferences": [
+    {
+      "conference": "2024 Joint Annual Conference of Physical Societies in Guangdong-Hong Kong-Macao Greater Bay Area",
+      "location": "Macao SAR",
+      "url": "https://yga2024.scimeeting.cn",
+      "preType": "",
+      "startDate": "2024-07",
+      "endDate": ""
+    },
+    {
+      "conference": "2023 Joint Annual Conference of Physical Societies in Guangdong-Hong Kong-Macao Greater Bay Area",
+      "location": "Hong Kong SAR",
+      "url": "https://www.cityu.edu.hk/phy/node/3091",
+      "preType": "Oral presentation",
+      "startDate": "2023-07",
+      "title": "Unravelling topological magnetic straucture and its complex ferroelectric polarization in Janus structures CrInX3 (X=Se, Te)",
+      "endDate": ""
+    },
+    {
+      "conference": "Kaliv Institute Workshoop on Magnetism, Superconductivity, Topology (M-S-T)",
+      "location": "Dongguan, China",
+      "preType": "Poster presentation",
+      "startDate": "2022-11",
+      "url": "https://icqd.ustc.edu.cn/MSTWorkshop/main.htm",
+      "title": "Unraveling complex magnetism in two-dimensional FeS2",
+      "endDate": ""
+    },
+    {
+      "conference": "American Physical Society (APS) March Meeting",
+      "location": "virtual",
+      "preType": "Oral presentation",
+      "startDate": "2021-03",
+      "url": "https://meetings.aps.org/Meeting/MAR21/Content/3990",
+      "title": "Prediction of half-metallic ferrimagnetic quadruple perovskites ACu3Fe2Re2O12 (A=Ca,Sr,Ba,Pb,Sc,Y,La)",
+      "endDate": ""
+    },
+    {
+      "conference": "Magnetism and Magnetic Materials Conferences (MMM) 2020 Conference",
+      "location": "virtual",
+      "preType": "Oral Presentation",
+      "startDate": "2020-11",
+      "url": "https://gmw.com/mmm-2020-virtual-conference-november-2-6/?srsltid=AfmBOooSGOKBLAn-nyljXalY0tpyihR6tGIm8VJvk0wF9jiNGnCZPjeo",
+      "title": "Prediction of half-metallic ferrimagnetic quadruple perovskites ACu3Fe2Re2O12 (A=Ca,Sr,Ba,Pb,Sc,Y,La)",
+      "endDate": ""
+    },
+    {
+      "conference": "Joint European Magnetic Symposia (JEMS)",
+      "location": "Uppsala, Sweden",
+      "preType": "Poster presentation",
+      "startDate": "2019-08",
+      "url": "https://program.appinconf.com/program/jems-2019/",
+      "title": "Magnetic structure dependent phonon dispersion in fcc Fe",
+      "endDate": ""
+    },
+    {
+      "conference": "Deutsche Physikalische Gesellschaft (DPG) Spring Meeting",
+      "location": "Regensburg, Germany",
+      "preType": "Poster presentation",
+      "startDate": "2019-04",
+      "url": "https://rostock19.dpg-tagungen.de/index5e0f.html?set_language=en",
+      "title": "Spin-phonon coupling in fcc Fe",
+      "endDate": ""
+    },
+    {
+      "conference": "Ab initio Modeling in Solid State Chemistry (MSSC)",
+      "location": "Torino, Italy",
+      "preType": "Poster presentation",
+      "startDate": "2018-09",
+      "url": "https://www.crystal.unito.it/mssc2018/",
+      "endDate": ""
+    },
+    {
+      "conference": "PDC summer school: Introduction to High-Performance Computing",
+      "location": "Stockholm, Sweden",
+      "startDate": "2018-08",
+      "url": "https://www.pdc.kth.se/about/publications/pdc-newsletter-no-2-2018/pdc-summer-school-2018-1.864575",
+      "endDate": ""
+    },
+    {
+      "conference": "Workshop and Hands-on School on the FP-LMTO Method and DMFT",
+      "location": "L'Aquila, Italy",
+      "url": "https://psi-k.net/meeting-report-workshop-fplmto-method-and-dmft-2018-italy/",
+      "preType": "Oral presentation",
+      "startDate": "2018-06",
+      "endDate": "",
+      "title": "Spin-spiral dispersion and magnon-phonon interactions in gamma-Fe"
+    }
+  ],
+
+  "activities": [
+    {
+      "name": "Reviewer",
+      "icon": "fa-solid fa-book",
+      "keywords": [
+        "npj 2D Materials and Applications",
+        "Scientific Reports",
+        "etc."
+      ]
     }
   ]
 }
