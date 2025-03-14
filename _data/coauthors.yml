@@ -1,10 +1,18 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+#"sanyal":
+#  - firstname: ["Biplab", "B.", "B"]
+#    url: https://www.uu.se/en/contact-and-organisation/staff?query=N1-83 
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"zhou":
+  - firstname: ["Fengyi", "F.", "F"]
+    url: https://www.uu.se/en/contact-and-organisation/staff?query=N1-83 
+
+"suo":
+  - firstname: ["Yan", "Y.", "Y"]
+    url: https://www.uu.se/en/contact-and-organisation/staff?query=N1-83 
+
+"chen":
+  - firstname: ["Feng", "F", "F"]
+    url: https://www.uu.se/en/contact-and-organisation/staff?query=N1-83 
 
 "rosen":
   - firstname: ["Nathan", "N."]
