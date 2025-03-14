@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Opening for Two Ph.D. Positions
-date: 2025-03-13 16:11:00-0400
+title: Recruiting Two Ph.D. Students
+date: 2025-03-14 16:11:00-0400
 inline: false
 related_posts: false
 ---
