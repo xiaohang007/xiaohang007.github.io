@@ -8,13 +8,14 @@ related_posts: false
 
 **Two Fully Funded PhD Positions in First-Principles Simulations – Wang Duo’s Group at Macao Polytechnic University**
 
+**Starting date: Sep. 2025**
+
 **Scholarship: MOP 10,000/month** (36 months)
 
 **Number of Positions: 2**
 
-**Last application date: May 2025**
+**Last application date: May 2025 (recruiting will close once positions are filled)**
 
-**Starting date: Sep. 2025**
 
 ---
 #### **Research Area 1: Dynamical Mean-Field Theory (DMFT) Study for Strongly Correlated Systems**
