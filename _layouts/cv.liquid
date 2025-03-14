@@ -99,7 +99,7 @@ layout: default
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
-                {% when 'projects' %}
+                {% when 'funding' %}
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
@@ -115,6 +115,11 @@ layout: default
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
+                {% when 'conferences' %}
+                  {% include resume/conferences.liquid %}
+                {% when 'activities' %}
+                  {% include resume/activities.liquid %}
+
                 {% else %}
 
               {% endcase %}
