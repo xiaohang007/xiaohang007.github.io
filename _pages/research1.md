@@ -9,10 +9,10 @@ Additionally, we conduct spin dynamic simulations to study time-dependent spin-s
 **selected publications**
 
 - *npj 2D Mater. Appl.* 8, 51 (2024).
-- *Nanoscale Horiz.* 9, 162–173 (2023).
 - *Phys. Rev. B* 104, 245410 (2021).
 - *Phys. Rev. Mater.* 5, 054405 (2021).
 - *J. Phys. Chem. C* 125, 18467–18473 (2021).
+- *Nanoscale Horiz.* 9, 162–173 (2023).
 
 **other references**
 - *Rev. Mod. Phys.* 95, 035004 (2023).
