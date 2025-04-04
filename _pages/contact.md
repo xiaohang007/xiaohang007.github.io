@@ -13,11 +13,11 @@ nav_order: 8
   <div style="flex: 1; min-width: 280px;">
     <h3><strong> Postal address </strong></h3>
     <p>
-    Faculty of Applied Sciences 
-    Macao Polytechnic University 
-    R. de Luís Gonzaga Gomes 
-    Macao SAR, 999078 
-    CHINA <br>  
+    Faculty of Applied Sciences <br>
+    Macao Polytechnic University <br>
+    R. de Luís Gonzaga Gomes <br>
+    Macao SAR, 999078 <br>
+    CHINA test <br>  
     </p>
   </div>
 
