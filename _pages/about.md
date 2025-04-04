@@ -9,6 +9,9 @@ profile:
   image: m42-20220314-2.JPEG
   image_circular: false # crops the image to make it circular
   more_info: >
+      <p>Orion Nebula (M42), taken near Flogstavägen 63F in Uppsala, Sweden, March 2022</p>
+#      <p>123 your address street</p>
+#      <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
