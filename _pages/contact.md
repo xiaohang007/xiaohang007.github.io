@@ -7,26 +7,38 @@ nav: true
 nav_order: 8
 ---
 
-#### **Postal address**
-Faculty of Applied Sciences
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;">
 
-Macao Polytechnic University
+  <!-- 左侧：地址 -->
+  <div style="flex: 1; min-width: 280px;">
+    ### **Postal address**
 
-R. de Luís  Gonzaga Gomes
+    Faculty of Applied Sciences  
+    Macao Polytechnic University  
+    R. de Luís Gonzaga Gomes  
+    Macao SAR, 999078  
+    CHINA  
+  </div>
 
-Macao SAR, 999078
+  <!-- 右侧：地图 -->
+  <div style="flex: 1; min-width: 300px;">
+    <iframe 
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3694.225190427038!2d113.54926717599878!3d22.193546746754983!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34017add184cf6cf%3A0xf2a64ab289d8fbae!2sMacao%20Polytechnic%20University!5e0!3m2!1sen!2sse!4v1743737061971!5m2!1sen!2sse" 
+      width="100%" height="300" style="border:0;" 
+      allowfullscreen="" loading="lazy" 
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
 
-CHINA
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3694.225190427038!2d113.54926717599878!3d22.193546746754983!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34017add184cf6cf%3A0xf2a64ab289d8fbae!2sMacao%20Polytechnic%20University!5e0!3m2!1sen!2sse!4v1743737061971!5m2!1sen!2sse" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 
 ---
 
-#### **Visit us/Group leader**
+#### **Visit us / Group leader**
 
-Office: Wui Chi building, N46B
+**Office**: Wui Chi building, N46B
 
-Email: <duo.wang@mpu.edu.mo>
+**Email**: <duo.wang@mpu.edu.mo>
 
-Phone(office): +853 8599 6884
+**Phone**(office): +853 8599 6884
