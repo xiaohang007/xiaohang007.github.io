@@ -17,7 +17,7 @@ nav_order: 8
     Macao Polytechnic University <br>
     R. de Luís Gonzaga Gomes <br>
     Macao SAR, 999078 <br>
-    CHINA test <br>  
+    CHINA <br>  
     </p>
   </div>
 
