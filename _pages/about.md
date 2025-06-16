@@ -27,14 +27,14 @@ latest_posts:
 ---
 
 
-Founded in January 2024 at the School of Interdisciplinary Studies, Lingnan University (Hong Kong SAR), we develop text-based representations and generative-AI methods for inverse solid-state materials design. Our SLICES representation—an invertible, symmetry-invariant crystallographic string—powers MatterGPT, a transformer that proposes novel crystals with multi-property targets.
+Founded in January 2024 at the School of Interdisciplinary Studies, Lingnan University (Hong Kong SAR), we develop text-based representations and generative-AI methods for inverse solid-state materials design. Our [SLICES](https://www.nature.com/articles/s41467-023-42870-7) representation—an invertible, symmetry-invariant crystallographic string—powers [MatterGPT](https://arxiv.org/abs/2408.07608), a transformer that proposes novel crystals with multi-property targets.
 
-Use the links above to learn more about our research, team and opportunities. For inquiries, email <hangxiao@ln.edu.hk> or DM us on [Bilibili](space.bilibili.com/398676911).
+Use the links above to learn more about our research, team and opportunities. For inquiries, email <hangxiao@ln.edu.hk> or DM us on [Bilibili](https://space.bilibili.com/398676911).
 
 
-本组成立于 2024 年 1 月，隶属香港岭南大学跨学科学院。我们专注于面向固体材料逆向设计的文本表示与生成式人工智能方法。提出的 SLICES 晶体表示法是一种可逆、具对称不变性的晶体字符串表示，并据此开发了多性能逆向设计模型 MatterGPT，可生成满足特定需求的新型晶体材料。
+本组成立于 2024 年 1 月，隶属香港岭南大学跨学科学院。我们专注于面向固体材料逆向设计的文本表示与生成式人工智能方法。提出的[SLICES](https://www.nature.com/articles/s41467-023-42870-7)晶体表示法是一种可逆、具对称不变性的晶体字符串表示，并据此开发了多性能逆向设计模型[MatterGPT](https://arxiv.org/abs/2408.07608)，可生成满足特定需求的新型晶体材料。
 
-欢迎浏览页面了解我们的研究方向、团队成员与合作机会。如需咨询，请发邮件至 <hangxiao@ln.edu.hk>，或在[哔哩哔哩](space.bilibili.com/398676911)私信联系我们。
+欢迎浏览页面了解我们的研究方向、团队成员与合作机会。如需咨询，请发邮件至 <hangxiao@ln.edu.hk>，或在[哔哩哔哩](https://space.bilibili.com/398676911)私信联系我们。
 
 
 

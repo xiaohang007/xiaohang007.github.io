@@ -12,6 +12,11 @@
             {% assign date = '' %}
           {% endif %}
           <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
+        {%- if content.amount -%}
+            <div class="mt-1" style="font-size:0.9rem;font-weight:600;">
+            {{ content.amount }}
+            </div>
+        {%- endif -%}
         </div>
         <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
           <h6 class="title font-weight-bold ml-1 ml-md-4">
