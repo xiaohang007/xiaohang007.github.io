@@ -11,31 +11,31 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: hangxiao2.jpg
-    content: people_Hang.md
+    content: people_hang.md
     image_circular: false # crops the image to make it circular
     more_info: >
 #      <p>555 your office number</p>
 #      <p>123 your address street</p>
 #      <p>Your City, State 12345</p>
   - align: left
-    image: student_Kedeng.jpg
-    content: people_Kedeng.md
+    image: student_kedeng.jpg
+    content: people_kedeng.md
     image_circular: false # crops the image to make it circular
     more_info: >
 #      <p>555 your office number</p>
 #      <p>123 your address street</p>
 #      <p>Your City, State 12345</p>
   - align: right
-    image: student_Jichang.jpg
-    content: people_Jichang.md
+    image: student_jichang.jpg
+    content: people_jichang.md
     image_circular: false # crops the image to make it circular
     more_info: >
 #      <p>555 your office number</p>
 #      <p>123 your address street</p>
 #      <p>Your City, State 12345</p>
   - align: left
-    image: student_Yuhao.jpg
-    content: people_Yuhao.md
+    image: student_yuhao.jpg
+    content: people_yuhao.md
     image_circular: false # crops the image to make it circular
     more_info: >
 #      <p>555 your office number</p>
