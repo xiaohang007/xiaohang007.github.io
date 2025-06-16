@@ -99,27 +99,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-hi-there-we-are-starting-our-group-website",
-          title: 'Hi there!  We are starting our group website!',
-          description: "",
-          section: "News",},{id: "news-yan-suo-fengyi-zhou-and-our-collaborators-paper-titled-achieving-negative-thermal-expansion-over-an-extended-temperature-range-in-rare-earth-modified-pbtio-3-based-perovskites-has-been-accepted-for-publication-in-the-springer-nature-journal-rare-metals",
-          title: 'Yan Suo, Fengyi Zhou, and our collaborators’ paper, titled Achieving Negative Thermal Expansion...',
-          description: "",
-          section: "News",},{id: "news-recruiting-two-ph-d-students",
-          title: 'Recruiting Two Ph.D. Students',
+            },},{id: "news-recruiting-ph-d-students-and-postdocs-招收博士生",
+          title: 'Recruiting Ph.D. Students and Postdocs 招收博士生',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "news-feng-chen-has-successfully-passed-her-ph-d-candidature-confirmatory-examination-well-done",
-          title: 'Feng Chen has successfully passed her Ph.D. candidature confirmatory examination. Well done!',
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-recruiting-postdoctoral-fellows-招收博士后",
+          title: 'Recruiting Postdoctoral Fellows 招收博士后',
           description: "",
-          section: "News",},{id: "news-fengyi-zhou-yan-suo-and-our-collaborators-paper-titled-discovery-of-an-ultra-stable-antiferromagnetic-two-dimensional-crf-3-phase-with-anisotropic-quasi-1d-mechanical-electronic-and-thermal-properties-has-been-accepted-for-publication-in-the-aps-journal-physical-review-b",
-          title: 'Fengyi Zhou, Yan Suo, and our collaborators’ paper, titled Discovery of an Ultra-Stable...',
-          description: "",
-          section: "News",},{id: "news-fengyi-zhou-and-our-collaborators-paper-titled-realizing-negative-thermal-expansion-over-an-extended-temperature-range-in-pbtio-3-based-perovskites-has-been-accepted-for-publication-in-journal-of-advanced-ceramics",
-          title: 'Fengyi Zhou and our collaborators’ paper, titled Realizing Negative Thermal Expansion over an...',
-          description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
