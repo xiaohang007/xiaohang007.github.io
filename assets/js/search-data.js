@@ -60,7 +60,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Recent courses taught at Macao Polytechnic University",
+          description: "Recent courses taught at Lingnan University",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -114,35 +114,42 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%64%75%6F.%77%61%6E%67@%6D%70%75.%65%64%75.%6D%6F", "_blank");
+          window.open("mailto:%68%61%6E%67%78%69%61%6F@%6C%6E.%65%64%75.%68%6B", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/xiaohang007", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/hang-xiao-a7523733", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0002-7070-034X", "_blank");
+          window.open("https://orcid.org/0000-0002-0565-6696", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=VU3QB7kAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=yQklyicAAAAJ", "_blank");
         },
       },{
-        id: 'social-work',
-        title: 'Work',
+        id: 'social-wechat_qr',
+        title: 'Wechat_qr',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.mpu.edu.mo/en/index.php", "_blank");
-        },
-      },{
-        id: 'social-flickr',
-        title: 'Flickr',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.flickr.com/143123750@N08", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
