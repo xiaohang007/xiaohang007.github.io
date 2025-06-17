@@ -1,6 +1,6 @@
 **Kedeng Wu**, M.Sc. student
 
-B.E. in *Chemical Engineering*, Northwest University, China
+B.E. in *Chemical Process Equipment*, Northwest University, China
 
 Email: <wkd135790_29@163.com>
 
