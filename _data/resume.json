@@ -66,7 +66,7 @@
     {
       "institution": "School of Aerospace Engineering, Xi'an Jiaotong University, China",
       "location": "Xi'an, China",
-      "url": "https://en.xjtu.edu.cn/",
+      "url": "https.en.xjtu.edu.cn/",
       "studyType": "B.Sc.",
       "startDate": "2007-09",
       "endDate": "2011-07"
@@ -84,7 +84,7 @@
       "title": "Overseas High-Level Talent Introduction Program (Youth Project) of Shaanxi Province",
       "summary": "入選陜西省高層次人才引進計劃青年項目",
       "date": "2020",
-      "awarder": "Shaanxi Province Committee",
+      "awarder": "Shaanxi Province Committee"
     }
   ],
   "funding": [
@@ -128,4 +128,4 @@
       ]
     }
   ]
-}
+} 
