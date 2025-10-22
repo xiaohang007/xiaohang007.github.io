@@ -1,0 +1,67 @@
+name: Build & Deploy Jekyll (custom)
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Ensure a working Python & pip for the Jupyter CLI used by jekyll-jupyter-notebook
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # For jekyll-imagemagick plugin (provides `convert`)
+      - name: Install system packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      # Install the Jupyter CLI + nbconvert (DON'T pin jupyter to >=7 — it doesn't exist)
+      - name: Install Jupyter CLI for nbconvert
+        run: |
+          python -m pip install --upgrade pip
+          # Smallest set needed by the plugin:
+          python -m pip install "jupyter-core>=5" "nbconvert>=7"
+          # (Alternative, heavier meta-package: `python -m pip install jupyter`)
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      # (Optional) You can remove your separate "Install gems" step; bundler-cache already runs bundle install
+
+      - name: Build site
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --trace
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
