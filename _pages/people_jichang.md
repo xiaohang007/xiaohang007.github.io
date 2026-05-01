@@ -1,4 +1,4 @@
-**Jichang Yang**, Research Assistant (RA)
+**Jichang Yang**, PhD candidate
 
 M.Eng. in *Computer Technology*, Zhengzhou University , China
 

@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "(PI in bold, group members underlined, * = corresponding author)",
+          description: "(Hang Xiao in bold, group members underlined, * = corresponding author)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
