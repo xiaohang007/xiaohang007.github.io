@@ -269,8 +269,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Xiao, X., X, Xiao#, Xiao*]
-  first_name: [Hang, H., H]
+  last_name: [Xiao, X., X, Xiao#, Xiao*, 肖]
+  first_name: [Hang, H., H, 航]
 
   style: apa
   locale: en
