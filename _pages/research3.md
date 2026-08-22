@@ -1,4 +1,4 @@
-##### **3. When Strong Bases Act Weak: Nanoscale Hydration Governs Humidity-Swing CO₂ Capture**
+##### **4. When Strong Bases Act Weak: Nanoscale Hydration Governs Humidity-Swing CO₂ Capture**
 
 Understanding how ion hydration changes under confinement is crucial for designing next-generation direct air capture (DAC) sorbents. Early computational and experimental work showed that incomplete hydration shells inside nanopores drive the spontaneous hydrolysis of carbonate, enabling moisture-swing CO₂ uptake on anion-exchange resins and related porous supports. Building on this paradigm, we recently theoretically studied guanidine, a prototypical super-base (pKₐ ≈ 13.6), in clusters containing only one to eight water molecules. Ab-initio free-energy profiles reveal that limited water severely suppresses proton abstraction, so guanidine can no longer generate OH⁻; under nanoconfinement it therefore behaves as a weak base.
 

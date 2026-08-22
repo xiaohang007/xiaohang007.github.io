@@ -1,4 +1,4 @@
-##### **2. SLICES: An invertible, invariant crystal language for inverse design of solid-state materials using GenAI**
+##### **3. SLICES: An invertible, invariant crystal language for inverse design of solid-state materials using GenAI**
 
 The Problem: Unlike the field of molecular design, which has rapidly advanced thanks to representations like SMILES, the inverse design of crystalline materials has been hindered by the lack of an invertible and invariant representation.
 
@@ -8,6 +8,7 @@ Further Improvement (SLICES-PLUS): While effective, SLICES did not explicitly co
 
 
 **selected publications**
+- [Materials & Design 269, 116776 (2026)](https://www.sciencedirect.com/science/article/pii/S0264127526013511)
 - [Nat Commun 14, 7027 (2023)](https://www.nature.com/articles/s41467-023-42870-7)
 - [Materials & Design 253, 113856 (2025)](https://www.sciencedirect.com/science/article/pii/S026412752500276X)
 
