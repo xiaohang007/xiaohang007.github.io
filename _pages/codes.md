@@ -32,7 +32,7 @@ See our Github site for relevant group codes:
 <div class="hf-embed">
   <iframe
     title="MatterGPT Demo (Hugging Face Space)"
-    src="https://xiaohang07-MatterGPT-CPU.hf.space"
+    src="https://alex888819-space_name.hf.space"
     loading="lazy"
     allow="clipboard-write; microphone; camera; fullscreen"></iframe>
 </div>
@@ -44,7 +44,7 @@ See our Github site for relevant group codes:
 <div class="hf-embed">
   <iframe
     title="SLICES / CIF Converter (Hugging Face Space)"
-    src="https://xiaohang07-SLICES.hf.space"
+    src="https://alex888819-SLICES.hf.space"
     loading="lazy"
     allow="clipboard-write; microphone; camera; fullscreen"></iframe>
 </div>
